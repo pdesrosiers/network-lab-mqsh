@@ -1,7 +1,9 @@
-# Network Lab – MQSH 2025  
+# Network Lab – MQSH 2025 
 *Hands-on introduction to network analysis in social sciences, health, and neuroscience*
 
+
 This repository contains interactive Jupyter notebooks prepared for the practical workshop at the **Colloque Méthodes quantitatives en sciences humaines (et santé)**, held in person on June 5–6, 2025, at the MIL Campus of Université de Montréal (rooms AB1007, B2061, and A3541).
+
 ---
 
 ## Overview
