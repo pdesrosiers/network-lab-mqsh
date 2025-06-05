@@ -16,9 +16,9 @@ This workshop offers an accessible introduction through practical exercises and 
 
 ---
 
-## Notebooks
+## Notebook
 
-### 1. Introduction to Network Analysis
+### Introduction to Network Analysis
 
 - Basic definitions: nodes, edges, degree
 - Visualizing networks with NetworkX
@@ -30,16 +30,7 @@ This workshop offers an accessible introduction through practical exercises and 
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>  
 </a>
 
-### 2. Real-World Networks
 
-- Explore simplified datasets from social, health, and neuroscience domains
-- Identify structural features and interpret centrality
-- Compare different types of networks
-
-📁 [`real_world_networks.ipynb`](notebooks/real_world_networks.ipynb)  
-<a target="_blank" href="https://colab.research.google.com/github/pdesrosiers/network-lab-mqsh/blob/main/notebooks/real_world_networks.ipynb">  
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>  
-</a>
 
 ---
 
