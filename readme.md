@@ -26,7 +26,7 @@ This workshop offers an accessible introduction through practical exercises and 
 - Simple network models
 
 📁 [`network_intro.ipynb`](notebooks/network_intro.ipynb)  
-<a target="_blank" href="https://colab.research.google.com/github/pdesrosiers/network-lab-mqsh/blob/main/notebooks/network_intro.ipynb">  
+<a target="_blank" href="https://colab.research.google.com/github/pdesrosiers/network-lab-mqsh/blob/master/notebooks/network_intro.ipynb">  
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>  
 </a>
 
